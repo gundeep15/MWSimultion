@@ -3,3 +3,4 @@ How many people does it take to start a stadium wave (popularly known as the Mex
 
 The mathematical model is a Markovian state transition model, but one that accounts for excitability of the states. Thresholds on the transition rates decide whether the individual can get excited or not. Initial excitations are however performed as being equivalent to system perturbations.
 
+![](simulationMovieLarge.gif)
